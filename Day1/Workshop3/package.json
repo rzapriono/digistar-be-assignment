@@ -1,0 +1,15 @@
+{
+  "name": "reza-digistar-hacker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reza apriono",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^1.3.1",
+    "moment": "^2.8.2"
+  }
+}
