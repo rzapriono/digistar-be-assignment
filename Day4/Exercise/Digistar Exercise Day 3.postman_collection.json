@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "9d6adc8e-adcd-4944-b12e-650b7181aa7b",
+		"name": "Digistar Exercise Day 3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29701415"
+	},
+	"item": [
+		{
+			"name": "get all todo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "create todo",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "PUT",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "change is_checked",
+			"request": {
+				"method": "PATCH",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
